@@ -48,8 +48,7 @@ Instructions:
 
 Download the dataset from this Google Drive link:
 
-Link: [PASTE YOUR GOOGLE DRIVE SHAREABLE LINK HERE] <-- IMPORTANT: REPLACE THIS!
-
+Link: https://drive.google.com/file/d/129coww3SE5miokBsazoGMG88dNynCr-6/view?usp=sharing
 Unzip the file to get twcs.csv.
 
 Place the twcs.csv file in the root directory of this project before running the notebook.
