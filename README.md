@@ -40,3 +40,16 @@ You will need Python 3.8+ and the following libraries installed:
 pip install torch
 pip install transformers
 pip install pandas
+
+Dataset
+The twcs.csv dataset is too large for GitHub and is hosted on Google Drive as a zip file.
+
+Instructions:
+
+Download the dataset from this Google Drive link:
+
+Link: [PASTE YOUR GOOGLE DRIVE SHAREABLE LINK HERE] <-- IMPORTANT: REPLACE THIS!
+
+Unzip the file to get twcs.csv.
+
+Place the twcs.csv file in the root directory of this project before running the notebook.
